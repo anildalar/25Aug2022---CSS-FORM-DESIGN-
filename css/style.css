@@ -1,0 +1,22 @@
+body{
+    background-color:#C2BDBA;
+    margin: 0px;
+}
+/* element Selector */
+form{
+    width: 520px;
+    height:520px;
+    background-color:#24323D;
+    /* margin: t/b l/r */ 
+    margin: 40px auto;
+    padding: 40px; 
+}
+form > button{
+    height:50px;
+    width:49%;
+    border:none;
+}
+form > button.green{
+    background-color:#32AD90;
+    
+}
