@@ -1,0 +1,16 @@
+CUSTOM FONT IN CSS
+
+
+https://fonts.google.com/
+https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+
+
+zip extract
+
+1. ttf = true type font
+2. otf = open type font
+3. woff = web open file format
+
+../ = one directory up
+
+../../ = two direcctory up
